@@ -7,4 +7,6 @@ So I've done a script that converts px to em using PHP.
 
 # how to use
 
-just copy index.php on your localhost and edit file by insert your code, and rund the code and see the result.
+* just copy index.php on your localhost and edit file by insert your code.
+* change the value of $px to your font size.
+* run the code and see the result.
